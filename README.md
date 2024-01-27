@@ -1,1 +1,1 @@
-# TicTacToeGui
+In this project, the implementation of the Tic-Tac-Toe game involved utilizing a linked list data structure to model lists of lists. Specifically, within this framework, a list of lists serves as a data structure where each node in the linked list encapsulates another linked list. This arrangement is employed to construct the game board.
